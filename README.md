@@ -32,7 +32,7 @@ A MERN stack chat app using *Socket.io* for real-time communication with login, 
 
 
 - Email: abhinavshaarma69558@gmail.com
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: https://github.com/Abhinavdotdev
 
 ---
 
